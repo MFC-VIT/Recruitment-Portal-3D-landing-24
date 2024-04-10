@@ -1,5 +1,4 @@
 import { OrbitControls } from "@react-three/drei";
-import Fox2 from "./Fox2";
 import Fox from "./Fox";
 
 const Experience = () => {
