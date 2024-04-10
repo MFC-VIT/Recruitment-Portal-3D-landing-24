@@ -23,7 +23,6 @@ const Fox = (props) => {
   const { setAnimations, animationIndex, setAnimationIndex } =
     useCharacterAnimations();
 
-  console.log(names);
   useEffect(() => {
     setAnimations(names);
   }, [names]);
@@ -70,7 +69,6 @@ const Fox = (props) => {
       });
     }
   }, [animationIndex]);
-  console.log(animationIndex);
 
   useEffect(() => {
     if (animationIndex === 5) {
