@@ -2,7 +2,7 @@
 </p>
 <br />
 
-# Recruitment Portel Backend '24
+# Recruitment Portel 3d Landing '24
 
 The official 3D landing repo for MFC-VIT recruitment of 2024 Portel.
 
