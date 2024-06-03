@@ -9,7 +9,6 @@ The official 3D landing repo for MFC-VIT recruitment of 2024 Portel.
 ## Tech Stack
 
 - React.js
-- Vite
 - Three.js
 - GSAP
 - Mantine
